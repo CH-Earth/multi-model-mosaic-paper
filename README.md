@@ -90,6 +90,14 @@ cell will open up a small popup window where you'll need to select a download mi
 
 The next few cells in the notebook will run a small test case to ensure `gumboot` was properly installed.
 
+#### Notebook
+Ensure the paths currently stored in the notebook are updated to point to the file locations on your system. In order, these are:
+- `camels_topo`
+- `camels_flow`
+- `brief_folder`
+- `border_path`
+
+With this, the notebook should be ready to run.
 
 ## References
 Addor, N., Newman, A. J., Mizukami, N., and Clark, M. P. (2017): Catchment attributes for large-sample studies, https://doi.org/10.5065/D6G73C3Q.
