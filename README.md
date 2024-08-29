@@ -1,4 +1,10 @@
 # Technical note: How many models do we need to simulate hydrologic processes across large geographical domains? 
+
+
+[![DOI](https://zenodo.org/badge/849451863.svg)](https://zenodo.org/doi/10.5281/zenodo.13515768)
+
+
+
 Analysis code for the paper:
 
 ```
