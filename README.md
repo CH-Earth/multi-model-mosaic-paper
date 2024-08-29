@@ -38,6 +38,8 @@ Direct URL:
 ### Computational environment
 The analysis uses both R and Python libraries. The main code is in Python, and the relevant R libraries are configured within the notebook, using Python's `r2py` library.
 
+Note: it is assumed that your system has Python and R installs, and (depending on which package manager you use) that the system already contains the installation requirements for the packages listed in `requirements.txt`. If none of this makes sense to you, there are guides available online that will help you navigate this.
+
 #### Python
 To prepare for running the notebook:
 1. Create a new virtual environment
